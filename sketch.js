@@ -23,7 +23,7 @@ function setup(){
     
 
 
-    stand=new Ground(400,400,80,5)
+    stand=new Ground(300,300,200,5)
     box1=new Box(130,135,30,40)
     box2=new Box(145,135,30,40)
     box3=new Box(160,135,30,40)
